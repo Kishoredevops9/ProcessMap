@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EKS.ProcessMaps.API", "EKS.ProcessMaps.API\EKS.ProcessMaps.API.csproj", "{E15E1972-6556-4D8A-BBF1-1E0FB424526F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EKS.ProcessMaps.XUnitTest", "EKS.ProcessMaps.XUnitTest\EKS.ProcessMaps.XUnitTest.csproj", "{5357B25B-439E-48A7-A512-EE39A653A339}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6CA6E123-7BC2-4171-AE85-F8AA406AD9D2}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E15E1972-6556-4D8A-BBF1-1E0FB424526F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E15E1972-6556-4D8A-BBF1-1E0FB424526F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E15E1972-6556-4D8A-BBF1-1E0FB424526F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E15E1972-6556-4D8A-BBF1-1E0FB424526F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5357B25B-439E-48A7-A512-EE39A653A339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5357B25B-439E-48A7-A512-EE39A653A339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5357B25B-439E-48A7-A512-EE39A653A339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5357B25B-439E-48A7-A512-EE39A653A339}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF12F247-A27C-4212-B716-503836B561C3}
+	EndGlobalSection
+EndGlobal
